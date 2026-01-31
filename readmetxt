@@ -1,0 +1,16 @@
+# Sales Analysis Using SQL Server
+
+## Project Overview
+This project analyzes sales transaction data using SQL Server to uncover
+product performance insights such as revenue and sales volume.
+
+## Tools Used
+- SQL Server (SSMS)
+- GitHub
+
+## Project Structure
+data/  - raw sales dataset  
+sql/   - SQL scripts for cleaning and analysis  
+
+## Status
+SQL analysis completed. Tableau visualization in progress.
